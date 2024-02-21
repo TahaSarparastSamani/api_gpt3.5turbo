@@ -1,2 +1,3 @@
-# api_gpt3.5turbo
-api gpt by django
+openai==1.12.0
+Django==4.2.10
+# api-django-gpt
